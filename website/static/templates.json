@@ -3524,7 +3524,8 @@
       "typescript",
       "bicep",
       "functions",
-      "appservice"
+      "appservice",
+      "msft"
     ]
   }
 ]
