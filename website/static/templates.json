@@ -3542,5 +3542,24 @@
       "monitor",
       "new"
       ]
+  },
+  {
+    "title": "Manage APIs with Azure API Center",
+    "description": "This sample uses APIs hosted on different deployment locations to demonstrate centralized API Governance with Azure API Center.",
+    "preview": "./templates/images/contoso-airlines.png",
+    "website": "https://github.com/juliamuiruri4",
+    "author": "Julia Muiruri",
+    "source": "https://github.com/Azure-Samples/API-Center-Workshop",
+    "tags": [
+      "new",
+      "javascript",
+      "apicenter",
+      "apim",
+      "typescript",
+      "bicep",
+      "functions",
+      "appservice",
+      "msft"
+    ]
   }
 ]
